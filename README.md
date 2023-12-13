@@ -23,6 +23,9 @@ c. diabetes.csv (raw data)
 2. Average glucose level of people with diabetes is 142. 
 3. The average age of individuals diagnosed to have diabetes within the sample dataset is 37.
 4. Between the models chosen to train the data, random forest and xgb3 model had the same accuracy score. It was hard to predict a better model without a specific use case identified. Thereby, we further evaluated both models using cross-validation and it seems that random forest is the better performing model.
+5. For the models of choice the following findings are notable:
+- Mean Accuracy: The Random Forest model has a slightly higher mean accuracy (0.7618) compared to the XGBoost model (0.7240). This suggests that, on average, the Random Forest model performs better in terms of accuracy across different folds of the data.
+- Standard Deviation: The Random Forest model also has a slightly lower standard deviation (0.0351) compared to the XGBoost model (0.0270). A lower standard deviation indicates less variability in performance across different folds.
 
 
 ## Challenges 
