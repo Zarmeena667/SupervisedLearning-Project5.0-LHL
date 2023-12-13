@@ -3,7 +3,7 @@
 
 ## Project Motivation and Goals
 
-The goal of this project was to gather insights using the provided data and to train an ML model.
+The goal of this project for me was to put the use of supervised learning techniques into practice.
 
 ## Repository folder guide/order
 1. Readme
