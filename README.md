@@ -13,7 +13,8 @@ The goal of this project was to gather insights using the provided data and to t
 
 ## Process
 
-![image](https://github.com/Zarmeena667/SupervisedLearning-Project5.0-LHL/assets/145514413/06feed8e-49c0-4499-be67-24509ca57b02)
+![image](https://github.com/Zarmeena667/SupervisedLearning-Project5.0-LHL/assets/145514413/7c95a09c-c14b-4911-af20-4dad5f21ca77)
+
 
 
 
