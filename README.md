@@ -6,9 +6,9 @@
 The goal of this project was to gather insights using the provided data and to train an ML model.
 
 ## Repository folder guide/order
-a. Readme
-b. Supervised Learning - Project.ipynb
-c. diabetes.csv (raw data)
+1. Readme
+2. Supervised Learning - Project.ipynb
+3. diabetes.csv (raw data)
 
 
 ## Process
